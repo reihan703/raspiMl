@@ -1,5 +1,7 @@
 venv/
 
-mobilenet_v1_1/
+__pycache__/
+
+*.pyc
 
 .env
